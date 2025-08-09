@@ -1,0 +1,36 @@
+{
+  "signIn":{
+    "signIn":"ورود",
+    "signUp":"ثبت نام",
+    "subTitle": "لطفا برای ورود، اطلاعات کاربری خود را وارد کنید!",
+    "phone": "تلفن",
+    "email": "ایمیل",
+    "phoneNumber": "شماره تلفن",
+    "phoneNumberText": "شماره تلفن",
+    "password":"رمز عبور",
+    "forgotPassword":"رمز عبور را فراموش کرده‌اید؟",
+    "button":"ورود با",
+    "linkCaption":"کاربر جدید هستید؟",
+    "requiredMessage":"اجباری است",
+    "invalidEmail":"آدرس ایمیل نامعتبر است",
+    "charLimit":"باید حداقل",
+    "hasOnlyDigits":"فقط باید شامل اعداد باشد",
+    "characters":"کاراکتر باشد",
+    "countryCode":"کد کشور"
+  },
+  "signUp":{
+    "subTitle": "به Fortuna Markets خوش آمدید",
+    "firstName": "نام",
+    "firstNameText": "نام",
+    "lastName": "نام خانوادگی",
+    "lastNameText": "نام خانوادگی",
+    "country":"کشور",
+    "selectWord":"انتخاب کنید",
+    "jurisdiction":"منطقه جغرافیایی",
+    "selectJurisdiction":"منطقه جغرافیایی را انتخاب کنید",
+    "riskText":"من موارد مربوط به ریسک را خوانده و قبول دارم",
+    "t&cs":"من شرایط و ضوابط را خوانده و قبول دارم",
+    "bottomText":"*مناطق محدود: Fortuna Markets Limited به ساکنان برخی کشورها مانند ایالات متحده آمریکا، امارات متحده عربی، ترکیه، اسرائیل و کره شمالی خدمات ارائه نمی‌دهد.",
+    "linkCaption":"قبلا ثبت نام کرده‌اید؟"
+  }
+}

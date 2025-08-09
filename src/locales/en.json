@@ -1,0 +1,36 @@
+{
+  "signIn":{
+    "signIn":"Sign In",
+    "signUp":"Sign Up",
+    "subTitle": "Please enter your credentials to sign in!",
+    "phone": "Phone",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "phoneNumberText": "phoneNumber",
+    "password":"Password",
+    "forgotPassword":"Forgot password?",
+    "button":"Sign in with",
+    "linkCaption":"Don't have an account yet?",
+    "requiredMessage":"is required",
+    "invalidEmail":"Invalid email address",
+    "charLimit":"must be at least",
+    "hasOnlyDigits":"must contain only digits",
+    "characters":"characters",
+    "countryCode":"Country code"
+  },
+  "signUp":{
+    "subTitle": "Welcome to the Fortuna Markets",
+    "firstName": "First Name",
+    "firstNameText": "firstName",
+    "lastName": "Last Name",
+    "lastNameText": "lastName",
+    "country":"Country",
+    "selectWord":"Select",
+    "jurisdiction":"Jurisdiction",
+    "selectJurisdiction":"Select jurisdiction",
+    "riskText":"I have read and agree to the RISK DISCLAIMER",
+    "t&cs":"I have read and agree to the T&Cs",
+    "bottomText":"* Restricted Regions: Fortuna Markets Limited does not provide services for the residents of certain countries, such as the USA, UAE, Turkey, Israel, North Korea.",
+    "linkCaption":"Already have an account yet?"
+  }
+}
