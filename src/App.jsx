@@ -19,8 +19,8 @@ function App() {
         <Route
           path="/"
           element={
-            <Link to="/register" className="text-3xl">
-              {t("test")}
+            <Link to="/auth" className="text-3xl">
+              Sign In
             </Link>
           }
         />
