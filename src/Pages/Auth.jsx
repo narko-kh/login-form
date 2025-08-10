@@ -16,7 +16,7 @@ export default function Auth() {
   document.documentElement.lang = lang;
   };
   
-console.log(i18n);
+console.log(i18n)
 
   return (
     <div className={`flex min-h-screen ${darkMode ? "dark" : ""}`}>
