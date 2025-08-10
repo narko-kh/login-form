@@ -19,7 +19,7 @@ function App() {
         <Route
           path="/"
           element={
-            <Link to="/auth" className="text-3xl">
+            <Link to="/auth/sign-in" className="text-3xl">
               Sign In
             </Link>
           }
